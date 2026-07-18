@@ -13,23 +13,20 @@
 </p>
 
 ##  Table of Contents
-## Table of Contents
 
 - [About Me](#about-me)
 - [Analytics Focus](#analytics-focus)
-- [Featured Projects](#featured-projects)
 - [Currently Working On](#currently-working-on)
 - [Currently Learning](#currently-learning)
 - [Technical Skills](#technical-skills)
-- [Featured Projects](#featured-projects)
 - [Certifications and Qualifications](#certifications-and-qualifications)
 - [Let's Connect](#lets-connect)
 
 ##  About Me
 
-Hi, I'm **Esther Nweze**, a **Chartered Accountant** and **Financial Business Intelligence (BI) Analyst** passionate about turning financial and operational data into actionable business insights.
+Hi, I'm **Esther Nweze**, a **Chartered Accountant** and **Financial Business Intelligence (BI) Analyst** Focused on transforming financial and operational data into clear, actionable outcomes that drive smarter business decisions.
 
-My accounting background gives me a deep understanding of how businesses measure performance—from financial reporting and budgeting to profitability analysis and strategic decision-making. I combine that financial expertise with modern data analytics tools to build dashboards, automate reporting, uncover trends, and support data-driven decisions.
+My accounting background gives me a deep understanding of how businesses measure performance, from financial reporting and budgeting to profitability analysis and strategic decision-making. I combine that financial expertise with modern data analytics tools to build dashboards, automate reporting, uncover trends, and support data-driven decisions.
 
 I specialize in transforming complex datasets into clear, interactive reports that help stakeholders answer important business questions such as:
 
@@ -40,22 +37,9 @@ I specialize in transforming complex datasets into clear, interactive reports th
 - Which KPIs should executives monitor to make better decisions?
 
 ##  Analytics Focus
-My focus is on developing Business Intelligence solutions using **Power BI, SQL, Excel, Python, and Power Query** while applying strong financial analysis principles to solve real business problems.
+My focus is on developing Business Intelligence solutions using **Power BI, SQL, Excel, and Power Query** while applying strong financial analysis principles to solve real business problems.
 
 Throughout my portfolio, you'll find projects across multiple industries, including:
-
--  Financial Analysis & FP&A
--  Legal Billing & Revenue Analytics
--  Healthcare & Financial Forecasting
--  Human Resources Analytics
--  Sales & Retail Analytics
--  Executive KPI Reporting
-
-Every project is built with one objective:
-
-> **Turn data into decisions.**
-
-##  Featured Projects
 
 ###  Financial Statement Forecasting
 Built a complete 5-year financial forecasting model including the Income Statement, Statement of Financial Position, and Cash Flow Statement for a fintech company.
@@ -71,6 +55,13 @@ Built a financial dashboard to compare budgeted versus actual performance, ident
 
 ###  Executive KPI Dashboard
 Created a business performance dashboard that tracks revenue, expenses, profitability, and operational KPIs for executive reporting.
+
+###  And More...
+
+Every project is built with one objective:
+
+> **Turn data into decisions.**
+
 
 ##  Currently Working On
 
@@ -104,10 +95,7 @@ Git | GitHub
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" width="45"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </div>
@@ -136,6 +124,3 @@ I'm always interested in connecting with professionals in:
 - Data Visualization
 
 Feel free to connect if you're passionate about using data to improve business performance or if you're looking for a Financial BI Analyst who enjoys turning numbers into meaningful business insights.
-
-I'm continuously expanding my expertise in Financial BI, data modeling, DAX optimization, SQL, Python, and dashboard storytelling while building portfolio projects that reflect real-world business scenarios.
-
